@@ -159,5 +159,4 @@ public class AlipayTask extends AsyncTask<String, Void, String> {
     private String getSignType() {
         return "sign_type=\"RSA\"";
     }
-
 }

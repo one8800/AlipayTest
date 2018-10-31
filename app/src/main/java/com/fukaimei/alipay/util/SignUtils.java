@@ -30,8 +30,6 @@ public class SignUtils {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         return null;
     }
-
 }
